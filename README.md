@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**thurmlimaa/thurmlimaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Meu nome é arthur matos 🖖
 
-Here are some ideas to get you started:
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thurllimaz/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=thurmlimaa&show_icons=true&theme=dark)
+
+## tecnologias que eu uso no meu dia e nos estudos:
+
+<div style="display: inline_block"><br/>
+  <img olign="center" alt="html15" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img olign="center" alt="html15" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div><br/>
+
+Apaixonado por tecnologia e programação
