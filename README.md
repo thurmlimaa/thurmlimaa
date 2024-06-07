@@ -5,6 +5,8 @@
 
 ![arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=thurmlimaa&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thurmlimaa)](https://github.com/thurmlimaa/github-readme-stats)
+
 ## tecnologias que eu uso no meu dia e nos estudos:
 
 <div style="display: inline_block"><br/>
