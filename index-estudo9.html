@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listas</title>
+</head>
+<body>
+    <h1>Trabalhando com Listas</h1>
+    <h2>Listas Ordenadas</h2>
+    <ol>
+        <!-- O </li> virou opcional -->
+        <li>Acordar</li>
+        <li>Ligar para o João</li>
+        <li>Tomar café</li>
+        <li>Escovar os dentes</li>
+    </ol>
+    <p>Se eu quiser modificar o começo da lista, é só eu usar o atributo <code>type</code>.</p>
+    <ol type="a">
+        <li>Acordar</li>
+        <li>Ligar para o João</li>
+        <li>Tomar café</li>
+        <li>Escovar os dentes</li>
+    </ol>
+    <p>Se eu quiser que a lista comece por outro número, é só usar o atributo <code>start</code>.</p>
+    <ol type="1" start="4">
+        <li>Acordar</li>
+        <li>Ligar para o João</li>
+        <li>Tomar café</li>
+        <li>Escovar os dentes</li>
+    </ol>
+    <hr>
+    <h2>Listas Não Ordenadas</h2>
+    <ul>
+        <li>Pão</li>
+        <li>Leite</li>
+        <li>Ovo</li>
+        <li>Mamão</li>
+    </ul>
+    <p>Se eu quiser modificar o estilo dos marcadores da lista, é só eu usar o atributo <code>type</code>.</p>
+    <h2>Juntando Listas 1.0</h2>
+    <p>Minhas linguagens favoritas:</p>
+    <ol>
+        <li>Antigas
+            <ol type="a">
+                <li>Clipper</li>
+                <li>Visual Basic</li>
+            </ol>
+        </li>
+        <li>Novas
+            <ol type="a" start="3">
+                <li>Python</li>
+                <li>PHP</li>
+                <li>C++</li>
+            </ol>
+        </li>
+    </ol>
+    <h2>Meus Jogos Favoritos</h2>
+    <ol>
+        <li>Antigos
+            <ul type="square">
+                <li>Minecraft</li>
+                <li>Roblox</li>
+                <li>Mario
+                    <ul type="circle">
+                        <li>Mario Bros</li>
+                        <li>Mario Kart</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>Novos
+            <ul type="square">
+                <li>Fortnite</li>
+                <li>Free Fire</li>
+                <li>Valorant</li>
+            </ul>
+        </li>
+    </ol>
+    <h2>Lista de Definição</h2>
+    <dl>
+        <dt>Termo</dt>
+        <dd>Descrição</dd>
+    </dl>
+    <h3>Exemplo:</h3>
+    <dl>
+        <dt>HTML</dt>
+        <dd>Linguagem de marcação para a criação do conteúdo de um site.</dd>
+        <dt>CSS</dt>
+        <dd>Linguagem de marcação do design de um site.</dd>
+        <dt>JavaScript</dt>
+        <dd>Linguagem de programação para a criação de interatividade de um site.</dd>
+    </dl>
+</body>
+</html>
