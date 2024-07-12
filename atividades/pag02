@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pag02</title>
+</head>
+<body>
+    <h1>pagina de noticias 2</h1>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus eius eveniet adipisci. Aperiam facilis voluptates fuga qui quasi laboriosam dolore doloremque, illo rem adipisci autem similique ipsum? Provident, voluptates magnam. <br>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore eveniet distinctio fuga explicabo expedita hic, temporibus atque dicta iusto voluptate debitis quos obcaecati magnam, doloribus perferendis sit, nisi ut dignissimos. <br>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime ad, temporibus eligendi iste animi sit quo eius vero, laboriosam eos ipsum expedita tempora, commodi qui. Dignissimos quisquam asperiores dolores minima!</p>
+    <a href="index.html" rel="prev">volte para a pag 1</a> <br>
+    <a href="noticias 3/pag03.html" rel="next">va para a pag 3</a>
+</body>
+</html>
