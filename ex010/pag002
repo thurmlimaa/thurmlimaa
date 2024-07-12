@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pag02</title>
+</head>
+<body>
+    <h1>esta é a pagina do seu site</h1>
+    <p>a segunda pagina esta aqui</p>
+    <p>voltar para a <a href="index.html" rel="prev">primeira pag</a>
+    <p>voce pode ir para a <a href="noticias/pag003.html" target="_blank" rel="next">terceira pag</a></p>
+    <p>esta pagina é um oferecimento de <a href="https://www.instagram.com/thurllimaz/" target="_blank" rel="nofollow">arthur</a></p>
+    <p>aviso importante: use o rel="nofollow" quando essa pagina não tem o seu aval ou quando alguma empresa lhe paga para o link estar na sua pag</p>
+</body>
+</html>
